@@ -1,3 +1,3 @@
-export function hiMom(): void {
-  console.log("Hi mom!");
+export function hiMom(): i8 {
+  return 5 + 5;
 }
